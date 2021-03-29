@@ -22,7 +22,11 @@ You'll build an application that has a static home page, and also will accept HT
 
 and respond with a web page displaying HTML. The body of the HTML contains a greeting:
 
+<<<<<<< HEAD
     "Hola, Mundo!"
+=======
+    "Hello, World!"
+>>>>>>> c72a1c4 (creacion proyecto alonso_gmail)
 
 You can customize the greeting with an optional `name` parameter in the query string:
 
